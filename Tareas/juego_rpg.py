@@ -45,4 +45,4 @@ while Jefe > 0:
 
 
 
-print("\n-Felicidades-\n\nYou Win\n")
+print("\n-Felicidades-\n\n-Haz derrotado a la bestia-\n\nYou Win\n")
