@@ -44,6 +44,7 @@ elif total >= 40000:
     descuento = total * 0.30
     total_con_descuento = total - descuento
 else:
+    descuento = 0
     total_con_descuento = total
 
 print("\n\nGracias por pedir en KawaiiDelivery\n")
