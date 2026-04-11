@@ -35,8 +35,6 @@ while True:
     else:
         print("Opcion no vàlida")
 
-    print("1. Ida")
-    print("2. Ida y vuelta")
     tipo_de_viaje = int(input("Escoja el tipo de viaje que desea realizar"))
 
     if tipo_de_viaje == 1:

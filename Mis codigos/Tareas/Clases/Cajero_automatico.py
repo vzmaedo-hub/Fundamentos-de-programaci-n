@@ -11,6 +11,7 @@ while True:
 
     if pin_ingresado == pin :
         print("Haz accedido")
+        break
         
     elif pin_ingresado != pin :
         contador_intentos_fallidos = contador_intentos_fallidos + 1
