@@ -65,7 +65,7 @@ while True:
         elif vida_j2 > vida_j1:
             print(f"Ganador: {nombre_j2}")
             break
-        
+
     
 
 
